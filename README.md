@@ -1,1 +1,1 @@
-![My Skills](https://simpleskill.icons.workers.dev/svg?i=C++,go,rust,elixir,python,typescript&perline=6)
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=cpp,c,go,rust,elixir,python,typescript)
