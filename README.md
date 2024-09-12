@@ -1,4 +1,5 @@
-<p align="center">Applied Mathematics and Scientific Computing @ University of São Paulo</p>
+<h2 align="center">Applied Mathematics and Scientific Computing @ University of São Paulo</h2>
+
 
 ###
 
