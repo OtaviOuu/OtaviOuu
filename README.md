@@ -1,5 +1,4 @@
 <h3 align="center">Applied Mathematics and Scientific Computing @ University of São Paulo</h3>
-<h3 align="center">Computer Engineering @ Uninter</h3>
 
 
 ###
