@@ -1,7 +1,9 @@
 <h3 align="center">Applied Mathematics and Scientific Computing @ University of São Paulo</h3>
+<h3 align="center">Computer Engineering @ Uninter</h3>
 
 
 ###
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=elixir" height="40" alt="elixir logo"  />
