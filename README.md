@@ -14,8 +14,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=otaviouu&repo=T2Educacao-downloader&theme=one_dark_pro&utcOffset=8" />
 </a>
 
-<a href="https://github.com/OtaviOuu/T2Educacao-downloader">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=otaviouu&theme=transparent" />
-</a>
-
-
