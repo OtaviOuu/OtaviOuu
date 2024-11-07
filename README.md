@@ -9,7 +9,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=otaviouu&repo=TileEngine&theme=one_dark_pro&utcOffset=7" />
 </a>
 
-https://github.com/OtaviOuu/TileEngine
 ## Scripts
 
 <a href="https://github.com/OtaviOuu/ITA-IME-ArideS-Downloader">  
